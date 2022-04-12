@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Patricia Dörr"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The world cannot be explained without numbers; and the world cannot be explained with numbers alone. (Hans Rosling, 2018, The world cannot be explained without numbers; and the world cannot be explained with numbers alonein Factfulness)"
+  bio    : "The world cannot be explained without numbers; and the world cannot be explained with numbers alone. (Hans Rosling, 2018, in Factfulness)"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
